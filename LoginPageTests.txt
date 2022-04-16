@@ -10,6 +10,6 @@ public void verifyLoginWithInValidCredentials(){
 }
 
 @Test
-public void verifyLoginWithInValidCredentials&868678(){
+public void verifyLoginWithInValidCredentials(){
 
 }
